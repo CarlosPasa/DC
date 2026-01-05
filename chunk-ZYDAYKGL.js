@@ -1,0 +1,1 @@
+import{P as i,na as s}from"./chunk-CLQWJLWL.js";var t=class e{_isMenuVisible=s(!1);get isMenuVisible(){return this._isMenuVisible.asReadonly()}showMenu(){this._isMenuVisible.set(!0)}hideMenu(){this._isMenuVisible.set(!1)}static \u0275fac=function(n){return new(n||e)};static \u0275prov=i({token:e,factory:e.\u0275fac,providedIn:"root"})};export{t as a};

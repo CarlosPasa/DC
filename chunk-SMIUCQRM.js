@@ -1,0 +1,1 @@
+import{P as i,na as r}from"./chunk-CLQWJLWL.js";var e=class n{hubSignal=r(null);get(){return this.hubSignal}start(t){this.hubSignal.set(t)}end(){this.hubSignal.set(null)}static \u0275fac=function(o){return new(o||n)};static \u0275prov=i({token:n,factory:n.\u0275fac,providedIn:"root"})};function c(n){return n!==null&&n!==""&&n!==0&&n!==void 0}export{e as a,c as b};
