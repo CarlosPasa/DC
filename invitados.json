@@ -1,0 +1,34 @@
+{
+    "invitados": [
+        {
+            "nombre": "Carlos Zapata",
+            "nr_pases": 3,
+            "sobre": "Carlos Zapata y familia",
+            "codigo": "4325B671D5"
+        },
+        {
+            "nombre": "Reyna Guerrero",
+            "nr_pases": 1,
+            "sobre": "Reyna Guerrero",
+            "codigo": "522E28223E"
+        },
+        {
+            "nombre": "Angie Zapata",
+            "nr_pases": 1,
+            "sobre": "Angie Zapata",
+            "codigo": "41249651C7"
+        },
+        {
+            "nombre": "Ernestina Ordinola",
+            "nr_pases": 1,
+            "sobre": "Ernestina Ordinola y familia",
+            "codigo": "502D080230"
+        },
+        {
+            "nombre": "Lucia Pasache",
+            "nr_pases": 1,
+            "sobre": "Lucia Pasache",
+            "codigo": "4C2AC76214"
+        }
+    ]
+}
