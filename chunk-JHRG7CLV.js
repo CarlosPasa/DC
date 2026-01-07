@@ -219,7 +219,7 @@ var x = class a {
         n(40, " Fiesta "),
         t(),
         e(41, "h3", 13),
-        n(42, " 9:30 pm "),
+        n(42, " 8:00 pm "),
         t()()()()());
     },
     dependencies: [u, f, g, v],

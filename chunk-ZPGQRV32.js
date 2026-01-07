@@ -88,7 +88,7 @@ var G = class e {
     { src: "assets/images/Timeless/image2.jpg", alt: "Image 2" },
     { src: "assets/images/Timeless/image3.jpg", alt: "Image 3" },
     { src: "assets/images/Timeless/image4.jpg", alt: "Image 4" },
-    { src: "assets/images/Timeless/image5.jpg", alt: "Image 5" },
+    { src: "assets/images/Timeless/image7.1.jpg", alt: "Image 5" },
     { src: "assets/images/Timeless/image6.jpg", alt: "Image 6" },
     { src: "assets/images/Timeless/image7.jpg", alt: "Image 7" },
     { src: "assets/images/Timeless/image8.jpg", alt: "Image 8" },

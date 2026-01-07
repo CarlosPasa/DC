@@ -114,7 +114,7 @@ var g = class n {
     template: function (e, c) {
       e & 1 &&
         (s(0, "div", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "h3", 4),
-        i(5, "#D&C14032026"),
+        i(5, "#D&C1403"),
         t(),
         s(6, "div", 5),
         o(7, "CamaraLisa"),

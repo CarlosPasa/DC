@@ -1,13 +1,259 @@
-import{a as S}from"./chunk-G37QBTU2.js";import{o as v}from"./chunk-AEQ62QCG.js";import{Ca as u,Eb as o,Gb as x,Ma as g,Mb as r,Ra as f,_a as _,gb as t,hb as e,ib as l,na as c,wb as m,xb as s}from"./chunk-CLQWJLWL.js";var d=i=>({content:i}),b=(i,n,a,p)=>[i,n,a,p];function y(i,n){i&1&&(t(0,"div",8)(1,"div",9),l(2,"img",10),e(),t(3,"div",11)(4,"h3",12),s(5,"Primera Salida"),e(),t(6,"h3",13),s(7," Despu\xE9s de algunos dias hablando por mensajes, fuimos en nuestra primera salida a un picnic a lo alto de la ciudad donde ambos vivimos "),e(),t(8,"h3",14),s(9,"Junio 2020"),e()()())}function C(i,n){i&1&&(t(0,"div",8)(1,"div",9),l(2,"img",15),e(),t(3,"div",11)(4,"h3",12),s(5,"Segunda Salida"),e(),t(6,"h3",13),s(7," Despu\xE9s de algunos dias hablando por mensajes, fuimos en nuestra primera salida a un picnic a lo alto de la ciudad donde ambos vivimos "),e(),t(8,"h3",14),s(9,"Junio 2020"),e()()())}function F(i,n){i&1&&(t(0,"div",8)(1,"div",9),l(2,"img",16),e(),t(3,"div",11)(4,"h3",12),s(5,"Tercera Salida"),e(),t(6,"h3",13),s(7," Despu\xE9s de algunos dias hablando por mensajes, fuimos en nuestra primera salida a un picnic a lo alto de la ciudad donde ambos vivimos "),e(),t(8,"h3",14),s(9,"Junio 2020"),e()()())}function N(i,n){i&1&&(t(0,"div",8)(1,"div",9),l(2,"img",17),e(),t(3,"div",11)(4,"h3",12),s(5,"Cuarta Salida"),e(),t(6,"h3",13),s(7," Despu\xE9s de algunos dias hablando por mensajes, fuimos en nuestra primera salida a un picnic a lo alto de la ciudad donde ambos vivimos "),e(),t(8,"h3",14),s(9,"Junio 2020"),e()()())}var E=class i{isFlipped=c(!0);constructor(){}ngOnInit(){}flipCard(){this.isFlipped.set(!this.isFlipped())}static \u0275fac=function(a){return new(a||i)};static \u0275cmp=g({type:i,selectors:[["NH_5_Timeless"]],decls:13,vars:19,consts:[["slide1",""],["slide2",""],["slide3",""],["slide4",""],["id","NuestraHistoria"],[1,"pt-5","text-primary-200","text-center"],[1,""],[3,"dark","slides","arrowClass","dotClass","activeDotClass","autoplay"],[1,"py-5","my-auto","w-full","text-center","mx-auto","p-2","sm:p-5"],[1,"relative","w-full","flex","justify-center","items-center"],["ngSrc","assets/images/Timeless/Fondos1.jpg","srcset",`
+import { a as S } from "./chunk-G37QBTU2.js";
+import { o as v } from "./chunk-AEQ62QCG.js";
+import {
+  Ca as u,
+  Eb as o,
+  Gb as x,
+  Ma as g,
+  Mb as r,
+  Ra as f,
+  _a as _,
+  gb as t,
+  hb as e,
+  ib as l,
+  na as c,
+  wb as m,
+  xb as s,
+} from "./chunk-CLQWJLWL.js";
+var d = (i) => ({ content: i }),
+  b = (i, n, a, p) => [i, n, a, p];
+function y(i, n) {
+  i & 1 &&
+    (t(0, "div", 8)(1, "div", 9),
+    l(2, "img", 10),
+    e(),
+    t(3, "div", 11)(4, "h3", 12),
+    s(5, "Primera Salida"),
+    e(),
+    t(6, "h3", 13),
+    s(
+      7,
+      " Despu\xE9s de algunos dias hablando por mensajes, fuimos en nuestra primera salida a un picnic a lo alto de la ciudad donde ambos vivimos "
+    ),
+    e(),
+    t(8, "h3", 14),
+    s(9, "Junio 2020"),
+    e()()());
+}
+function C(i, n) {
+  i & 1 &&
+    (t(0, "div", 8)(1, "div", 9),
+    l(2, "img", 15),
+    e(),
+    t(3, "div", 11)(4, "h3", 12),
+    s(5, "Segunda Salida"),
+    e(),
+    t(6, "h3", 13),
+    s(
+      7,
+      " Despu\xE9s de algunos dias hablando por mensajes, fuimos en nuestra primera salida a un picnic a lo alto de la ciudad donde ambos vivimos "
+    ),
+    e(),
+    t(8, "h3", 14),
+    s(9, "Junio 2020"),
+    e()()());
+}
+function F(i, n) {
+  i & 1 &&
+    (t(0, "div", 8)(1, "div", 9),
+    l(2, "img", 16),
+    e(),
+    t(3, "div", 11)(4, "h3", 12),
+    s(5, "Tercera Salida"),
+    e(),
+    t(6, "h3", 13),
+    s(
+      7,
+      " Despu\xE9s de algunos dias hablando por mensajes, fuimos en nuestra primera salida a un picnic a lo alto de la ciudad donde ambos vivimos "
+    ),
+    e(),
+    t(8, "h3", 14),
+    s(9, "Junio 2020"),
+    e()()());
+}
+function N(i, n) {
+  i & 1 &&
+    (t(0, "div", 8)(1, "div", 9),
+    l(2, "img", 17),
+    e(),
+    t(3, "div", 11)(4, "h3", 12),
+    s(5, "Cuarta Salida"),
+    e(),
+    t(6, "h3", 13),
+    s(
+      7,
+      " Despu\xE9s de algunos dias hablando por mensajes, fuimos en nuestra primera salida a un picnic a lo alto de la ciudad donde ambos vivimos "
+    ),
+    e(),
+    t(8, "h3", 14),
+    s(9, "Junio 2020"),
+    e()()());
+}
+var E = class i {
+  isFlipped = c(!0);
+  constructor() {}
+  ngOnInit() {}
+  flipCard() {
+    this.isFlipped.set(!this.isFlipped());
+  }
+  static ɵfac = function (a) {
+    return new (a || i)();
+  };
+  static ɵcmp = g({
+    type: i,
+    selectors: [["NH_5_Timeless"]],
+    decls: 13,
+    vars: 19,
+    consts: [
+      ["slide1", ""],
+      ["slide2", ""],
+      ["slide3", ""],
+      ["slide4", ""],
+      ["id", "NuestraHistoria"],
+      [1, "pt-5", "text-primary-200", "text-center"],
+      [1, ""],
+      [
+        3,
+        "dark",
+        "slides",
+        "arrowClass",
+        "dotClass",
+        "activeDotClass",
+        "autoplay",
+      ],
+      [
+        1,
+        "py-5",
+        "my-auto",
+        "w-full",
+        "text-center",
+        "mx-auto",
+        "p-2",
+        "sm:p-5",
+      ],
+      [1, "relative", "w-full", "flex", "justify-center", "items-center"],
+      [
+        "ngSrc",
+        "assets/images/Timeless/Fondos1.jpg",
+        "srcset",
+        `
                   assets/images/Timeless/Fondos1.jpg  600w,
                   assets/images/Timeless/Fondos1.jpg 1200w
-                `,"alt","",1,"w-10/12","sm:w-1/4","object-cover","mx-auto","mt-auto"],[1,"mt-2"],[1,"py-1"],[1,"py-1","text-xl"],[1,"tracking-widest"],["ngSrc","assets/images/Timeless/Fondo2.jpg","srcset",`
+                `,
+        "alt",
+        "",
+        1,
+        "w-10/12",
+        "sm:w-1/4",
+        "object-cover",
+        "mx-auto",
+        "mt-auto",
+      ],
+      [1, "mt-2"],
+      [1, "py-1"],
+      [1, "py-1", "text-xl"],
+      [1, "tracking-widest"],
+      [
+        "ngSrc",
+        "assets/images/Timeless/Fondo2.jpg",
+        "srcset",
+        `
                   assets/images/Timeless/Fondo2.jpg  600w,
                   assets/images/Timeless/Fondo2.jpg 1200w
-                `,"alt","",1,"w-10/12","sm:w-1/4","object-cover","mx-auto","mt-auto"],["ngSrc","assets/images/Timeless/Fondo3.jpg","srcset",`
+                `,
+        "alt",
+        "",
+        1,
+        "w-10/12",
+        "sm:w-1/4",
+        "object-cover",
+        "mx-auto",
+        "mt-auto",
+      ],
+      [
+        "ngSrc",
+        "assets/images/Timeless/Fondo3.jpg",
+        "srcset",
+        `
                   assets/images/Timeless/Fondo3.jpg  600w,
                   assets/images/Timeless/Fondo3.jpg 1200w
-                `,"alt","",1,"w-10/12","sm:w-1/4","object-cover","mx-auto","mt-auto"],["ngSrc","assets/images/Timeless/image5.jpg","srcset",`
-                  assets/images/Timeless/image5.jpg  600w,
-                  assets/images/Timeless/image5.jpg 1200w
-                `,"alt","",1,"w-10/12","sm:w-1/4","object-cover","mx-auto","mt-auto"]],template:function(a,p){if(a&1&&(t(0,"div",4)(1,"h1",5),s(2,"Nuestra Historia"),e(),t(3,"div",6),l(4,"Carousel",7),e(),f(5,y,10,0,"ng-template",null,0,r)(7,C,10,0,"ng-template",null,1,r)(9,F,10,0,"ng-template",null,2,r)(11,N,10,0,"ng-template",null,3,r),e()),a&2){let T=m(6),h=m(8),w=m(10),j=m(12);u(4),_("dark",!0)("slides",x(14,b,o(6,d,T),o(8,d,h),o(10,d,w),o(12,d,j)))("arrowClass","text-primary-200")("dotClass","text-primary-200 opacity-40")("activeDotClass","!opacity-100")("autoplay",!1)}},dependencies:[v,S],styles:[".shadow-custom[_ngcontent-%COMP%]{box-shadow:0 10px 25px #00000026,0 4px 10px #0000001a}.flipped[_ngcontent-%COMP%]{transform:rotateY(180deg)}.card[_ngcontent-%COMP%]{transform-style:preserve-3d;transition:transform .5s ease-in-out}.reflejado[_ngcontent-%COMP%]{transform:scaleX(-1);display:inline-block}"]})};export{E as NH_5_Timeless};
+                `,
+        "alt",
+        "",
+        1,
+        "w-10/12",
+        "sm:w-1/4",
+        "object-cover",
+        "mx-auto",
+        "mt-auto",
+      ],
+      [
+        "ngSrc",
+        "assets/images/Timeless/image7.1.jpg",
+        "srcset",
+        `
+                  assets/images/Timeless/image7.1.jpg  600w,
+                  assets/images/Timeless/image7.1.jpg 1200w
+                `,
+        "alt",
+        "",
+        1,
+        "w-10/12",
+        "sm:w-1/4",
+        "object-cover",
+        "mx-auto",
+        "mt-auto",
+      ],
+    ],
+    template: function (a, p) {
+      if (
+        (a & 1 &&
+          (t(0, "div", 4)(1, "h1", 5),
+          s(2, "Nuestra Historia"),
+          e(),
+          t(3, "div", 6),
+          l(4, "Carousel", 7),
+          e(),
+          f(5, y, 10, 0, "ng-template", null, 0, r)(
+            7,
+            C,
+            10,
+            0,
+            "ng-template",
+            null,
+            1,
+            r
+          )(9, F, 10, 0, "ng-template", null, 2, r)(
+            11,
+            N,
+            10,
+            0,
+            "ng-template",
+            null,
+            3,
+            r
+          ),
+          e()),
+        a & 2)
+      ) {
+        let T = m(6),
+          h = m(8),
+          w = m(10),
+          j = m(12);
+        u(4),
+          _("dark", !0)(
+            "slides",
+            x(14, b, o(6, d, T), o(8, d, h), o(10, d, w), o(12, d, j))
+          )("arrowClass", "text-primary-200")(
+            "dotClass",
+            "text-primary-200 opacity-40"
+          )("activeDotClass", "!opacity-100")("autoplay", !1);
+      }
+    },
+    dependencies: [v, S],
+    styles: [
+      ".shadow-custom[_ngcontent-%COMP%]{box-shadow:0 10px 25px #00000026,0 4px 10px #0000001a}.flipped[_ngcontent-%COMP%]{transform:rotateY(180deg)}.card[_ngcontent-%COMP%]{transform-style:preserve-3d;transition:transform .5s ease-in-out}.reflejado[_ngcontent-%COMP%]{transform:scaleX(-1);display:inline-block}",
+    ],
+  });
+};
+export { E as NH_5_Timeless };

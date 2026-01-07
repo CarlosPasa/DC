@@ -4812,7 +4812,7 @@ var Ge = class a {
         "space-y-4",
         "text-primary-100",
       ],
-      [1, "font-handwriting8", "text-center", 3, "ngClass"],
+      [1, "Great Vibes", "text-center", 3, "ngClass"],
       ["class", "absolute bottom-48 left-0 z-30", 4, "ngIf"],
       [1, "absolute", "bottom-48", "left-0", "z-30"],
       [
